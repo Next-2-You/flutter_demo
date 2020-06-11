@@ -1,0 +1,9 @@
+name: flutter_website_server
+description: flutter企业站服务端实战
+
+dependencies:
+  http_server: ^0.9.8
+
+
+
+
